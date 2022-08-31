@@ -1,6 +1,6 @@
 ---
-title: "Intro to NLP: String Similarity, Edit Distance & Evaluation"
-excerpt: "CLICK TO PLAY -> This lab session will teach you how to gauge string similarity by calculating the minimum edit distance between strings (Exercise 1). You will also be introduced to a variety of evaluation metrics: precision, recall, F-score (F1-score), and accuracy, that are used to determine the performance of various NLP and ML algorithms, such as text classifiers (Exercise 2)."
+title: "<b>CLICK TO PLAY -><b> Intro to NLP: String Similarity, Edit Distance & Evaluation"
+excerpt: "This lab session will teach you how to gauge string similarity by calculating the minimum edit distance between strings (Exercise 1). You will also be introduced to a variety of evaluation metrics: precision, recall, F-score (F1-score), and accuracy, that are used to determine the performance of various NLP and ML algorithms, such as text classifiers (Exercise 2)."
 collection: portfolio
 ---
 
