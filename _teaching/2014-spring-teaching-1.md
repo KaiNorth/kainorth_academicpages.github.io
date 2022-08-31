@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Language Technology Group: Rochester Institute of Technology"
-date: 2014-01-01
+date: 2021-01-01
 location: "Rochester, USA"
 ---
 
