@@ -2,7 +2,7 @@
 title: "Language Technology: ENGL 351"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2014-spring-teaching-2
 venue: "Language Technology Group: Rochester Institute of Technology"
 date: 2021
 location: "Rochester, USA"
