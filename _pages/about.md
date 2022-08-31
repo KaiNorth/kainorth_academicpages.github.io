@@ -12,7 +12,7 @@ I am a 3rd year Information Technology Ph.D. student at George Mason University,
 
 Research Interests
 ======
-My research interests are in computational linguistics and natural language processing focusing on hate speech detection and text simplification.
+My research interests are in computational linguistics and natural language processing focusing on hate speech detection, language variety identification, and text simplification.
 
 Recent Publications
 ======
