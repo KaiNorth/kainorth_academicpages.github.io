@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd year Information Technology Ph.D. student at George Mason University, Virginia, USA. I am under the supervision of [Marcos Zampieri ](https://mzampieri.com/).
+I am a 3rd year Information Technology Ph.D. student at George Mason University, Virginia, USA. I am under the supervision of [Prof. Marcos Zampieri](https://mzampieri.com/).
 
 Research Interests
 ======
