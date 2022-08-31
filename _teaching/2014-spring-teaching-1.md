@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Introduction to NLP"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Language Technology Group: Rochester Institute of Technology"
 date: 2014-01-01
-location: "City, Country"
+location: "Rochester, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course provides theoretical foundation as well as hands-on (lab-style) practice in computational approaches for processing natural language text. The course will have relevance to various disciplines in the humanities, sciences, computational, and technical fields. We will discuss problems that involve different components of the language system (such as meaning in context and linguistic structures). Students will additionally collaborate in teams on modeling and implementing natural language processing and digital text solutions.
 
 Heading 1
 ======
