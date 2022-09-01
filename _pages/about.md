@@ -16,11 +16,5 @@ My research interests are in computational linguistics and natural language proc
 
 News
 ======
->**11/01/2021** - We (WLV-RIT) achieved the highest performance on the Hate Speech and Offensive Content Identication in Marathi Shared-Task (FIRE)! Go Team!
 
-Register a GitHub account if you don't have one and confirm your e-mail (required!)
-Fork [this repository](https://github.com/academicpages/ornate-frangollo-c23556.netlify.app) by clicking the "fork" button in the top right.
-Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-Check status by going to the repository settings, in the "GitHub pages" section
+>**11/01/2021** - We (WLV-RIT) achieved the highest performance on the Hate Speech and Offensive Content Identication in Marathi Shared-Task (FIRE)! Go Team!
