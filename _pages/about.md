@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd year Information Technology Ph.D. student at George Mason University, Virginia, USA. I am under the supervision of [Prof. Marcos Zampieri](https://mzampieri.com/). Over the past two years, I have worked at the Language Technology Lab at Rochester Institute of Technology. Here, I have hosted many NLP workshops and lectures ([Click here to watch workshop recording](https://kainorth.netlify.app/portfolio/portfolio-1/)) and have published multiple papers in top-tier conferences and journals.
+I am a 3rd year Information Technology Ph.D. student at George Mason University, Virginia, USA. I am under the supervision of [Prof. Marcos Zampieri](https://mzampieri.com/). 
+
+Over the past two years, I have worked at the Language Technology Lab at Rochester Institute of Technology. Here, I have hosted many NLP workshops and lectures ([Click here to watch workshop recording](https://kainorth.netlify.app/portfolio/portfolio-1/)) and have published multiple papers in top-tier conferences and journals.
 
 Research Interests
 ======
