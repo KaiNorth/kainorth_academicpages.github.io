@@ -16,7 +16,7 @@ My research interests are in computational linguistics and natural language proc
 
 News
 ======
->*11/01/2021* - I can't believe that we (WLV-RIT) achieved the highest performance on the Hate Speech and Offensive Content Identication in Marathi Shared-Task (FIRE)! Go Team!
+>**11/01/2021** - We (WLV-RIT) achieved the highest performance on the Hate Speech and Offensive Content Identication in Marathi Shared-Task (FIRE)! Go Team!
 
 Register a GitHub account if you don't have one and confirm your e-mail (required!)
 Fork [this repository](https://github.com/academicpages/ornate-frangollo-c23556.netlify.app) by clicking the "fork" button in the top right.
