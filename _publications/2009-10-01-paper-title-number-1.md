@@ -12,5 +12,5 @@ This paper describes team LCP-RIT’s submission to the SemEval-2021 Task 1: Lex
 
 [Download paper here](http://ornate-frangollo-c23556.netlify.app/files/paper1.pdf)
 
-Recommended citation: Abhinandan Desai, Kai North, Marcos Zampieri, and Christopher Homan. 2021. LCP-RIT at SemEval-2021 Task 1: Exploring Linguistic Features for Lexical Complexity Prediction. In Proceedings of the Fifteenth Workshop on Semantic Evaluation. Association for
+Recommended citation: Abhinandan Desai, Kai North, Marcos Zampieri, and Christopher Homan. 2021. LCP-RIT at SemEval-2021 Task 1: Exploring Linguistic Features for Lexical Complexity Prediction. In Proceedings of the Fifteenth Workshop on Semantic Evaluation. Association for
 Computational Linguistics, Bangkok, Thailand.

@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "An Evaluation of Binary Comparative Lexical Complexity Models"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://ornate-frangollo-c23556.netlify.app/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'We investigate the performance of binary comparative Lexical Complexity Prediction (LCP) models applied to a popular benchmark dataset—the CompLex 2.0 dataset used in SemEval-2021 Task 1.'
+date: 2022-05-01
+venue: 'Proceedings of the 17th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2022)'
+paperurl: 'https://aclanthology.org/2022.bea-1.24.pdf'
+
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Identifying complex words in texts is an important first step in text simplification (TS) systems. In this paper, we investigate the performance of binary comparative Lexical Complexity Prediction (LCP) models applied to a popular benchmark dataset—the CompLex 2.0 dataset used in SemEval-2021 Task 1. With the data from CompLex 2.0, we create a new dataset contain 1,940 sentences referred to as CompLex-BC. Using CompLex-BC, we train multiple models to differentiate which of two target words is more or less complex in the same sentence. A linear SVM model achieved the best performance in our experiments with an F1-score of 0.86.
 
-[Download paper here](http://ornate-frangollo-c23556.netlify.app/files/paper3.pdf)
+[Download paper here](https://aclanthology.org/2022.bea-1.24.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Kai North, Marcos Zampieri, and Matt Shardlow. 2018. An Evaluation of Binary Comparative Lexical Complexity Models. In Proceedings of the 17th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2022). Seattle, USA.
