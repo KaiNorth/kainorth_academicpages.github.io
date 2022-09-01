@@ -12,7 +12,7 @@ I am a 3rd year Information Technology Ph.D. student at George Mason University,
 
 Research Interests
 ======
-My research interests are in computational linguistics and natural language processing focusing on hate speech detection, language variety identification, and text simplification. Within these tasks, I work on the development of text to token classifiers, multilingual and transfer learning, as well as state-of-the-art machine learning models, including transformers and ensemble-based models.
+My research interests are in computational linguistics and natural language processing focusing on hate speech detection, language variety identification, and text simplification. I work on the development of text to token classifiers, multilingual and transfer learning, as well as state-of-the-art machine learning models, including transformers and ensemble-based models.
 
 Recent Publications
 ======
