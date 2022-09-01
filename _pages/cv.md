@@ -28,7 +28,7 @@ Relevant Work experience
 
 * 2019-2020: Data Analyst
   * Researched, interpreted and manipulated data using a variety of systems whilst identifying issues for further analysis
-  *  Worked effectively with large volumes of complex and varied data. This data was then presented clearly to colleagues at various levelsboth expert and non-expert.
+  *  Worked effectively with large volumes of complex and varied data. This data was then presented clearly to colleagues at various levels both expert and non-expert.
   * Coded numerous python scripts to automatically classify data allowing for faster data processing and quality checking.
 
 Skills
@@ -36,7 +36,7 @@ Skills
 * Proficient in Python, Java, and R, including the use of various NLP toolkits.
 * Extensive linguistic knowledge: Phonology, Phonetics, Semantics, Syntax, Morphology.
 * Experience with ML models for NLP: SVMs, Random Forests, Deep Learning, Transformers.
-* Familiarity with rule-based and statistical machine translation systems: GramTrans and Moses.
+* Familiarity with rule-based and statistical machine translation systems: GramTrans and Moses.
 * Expertise in corpus and data analysis software: Wordsmith, AntConc, Tableau.
 * Fascination with Sino-Tibetan languages: Mandarin and Cantonese.
 
@@ -57,7 +57,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
