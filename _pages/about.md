@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd year Information Technology Ph.D. student at George Mason University, Virginia, USA. I am under the supervision of [Prof. Marcos Zampieri](https://mzampieri.com/). 
+I am a 3rd year Information Technology Ph.D. student at George Mason University, Virginia, USA. I am under the supervision of [Prof. Marcos Zampieri](https://mzampieri.com/).
 
 Over the past two years, I have worked at the Language Technology Lab at Rochester Institute of Technology. Here, I have hosted many NLP workshops and lectures ([Click here to watch workshop recording](https://kainorth.netlify.app/portfolio/portfolio-1/)) and have published multiple papers in top-tier conferences and journals.
 
@@ -18,7 +18,7 @@ My research interests are in computational linguistics and natural language proc
 
 I work on the development of text to token classifiers, multilingual and transfer learning, as well as state-of-the-art machine learning models, including transformers and ensemble-based models.
 
-News
+Recent News
 ======
 
->**11/01/2021** - We (WLV-RIT) achieved the highest performance on the Hate Speech and Offensive Content Identication in Marathi Shared-Task (FIRE)! Go Team!
+>**30/08/2022** - The Language Technology Lab has moved to George Mason University! 
