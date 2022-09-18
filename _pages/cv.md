@@ -14,7 +14,6 @@ Education
 * B.S. in Linguistics, University of Winchester, 2017
 * M.S. in Applied Linguistics, University of Nottingham Ningbo China, 2018
 * M.S. in Computational Linguistics,  University of Wolverhampton, 2019
-* Ph.D in Computing and Information Sciences, Rochester Institute of Technology, 2022
 * Ph.D in Information Technology, University of George Mason, 2025 (expected)
 
 Relevant Work experience
