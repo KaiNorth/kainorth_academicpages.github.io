@@ -5,7 +5,7 @@ permalink: /publication/2015-10-01-paper-title-number-4
 excerpt: 'In this study, we present a new benchmark dataset for lexical simplification in English, Spanish, and (Brazilian) Portuguese, and provide details about data selection and annotation procedures,to enable compilation of comparable datasets in other languages and domains.'
 date: 2022-09-01
 venue: 'Frontiers in Artificial Intelligence'
-paperurl: ''
+paperurl: 'https://arxiv.org/abs/2209.05301'
 
 ---
 Even in highly-developed countries, as many as 15-30% of the population can only understand
@@ -25,7 +25,6 @@ We find that a state-of-the-art neural lexical simplification system outperforms
 art non-neural lexical simplification system in all three languages, according to all evaluation
 measures. More importantly, we find that the state-of-the-art neural lexical simplification systems perform significantly better for English than for Spanish and Portuguese, thus posing a question if such an architecture can be used for successful lexical simplification in other languages, especially the low-resourced ones.
 
+[Download paper here](https://arxiv.org/pdf/2209.05301.pdf)
 
-<!-- [Download paper here](https://aclanthology.org/2022.bea-1.24.pdf) -->
-
-<!-- Recommended citation: Kai North, Marcos Zampieri, and Matt Shardlow. 2018. An Evaluation of Binary Comparative Lexical Complexity Models. In Proceedings of the 17th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2022). Seattle, USA. -->
+Recommended citation: Sanja Stajner, Daniel Ferres, Matthew Shardlow, Kai North, Marcos Zampieri, and Horacio Saggion. 2022. Lexical Simplification Benchmarks for English, Portuguese, and Spanish. Frontiers in Artificial Intelligence.
