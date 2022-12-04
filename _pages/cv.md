@@ -34,7 +34,7 @@ Skills
 ======
 * Proficient in Python, Java, and R, including the use of various NLP toolkits.
 * Extensive linguistic knowledge: Phonology, Phonetics, Semantics, Syntax, Morphology.
-* Experience with ML models for NLP: SVMs, Random Forests, Deep Learning, Transformers.
+* Expertise in ML models for NLP: SVMs, Random Forests, Deep Learning, Transformers.
 * Familiarity with rule-based and statistical machine translation systems: GramTrans and Moses.
 * Expertise in corpus and data analysis software: Wordsmith, AntConc, Tableau.
 * Fascination with Sino-Tibetan languages: Mandarin and Cantonese.
