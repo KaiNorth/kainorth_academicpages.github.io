@@ -36,7 +36,7 @@ Skills
 * Extensive linguistic knowledge: Phonology, Phonetics, Semantics, Syntax, Morphology.
 * Expertise in ML models for NLP: SVMs, Random Forests, Deep Learning, Transformers.
 * Familiarity with rule-based and statistical machine translation systems: GramTrans and Moses.
-* Expertise in corpus and data analysis software: Wordsmith, AntConc, Tableau.
+* Experience with corpus and data analysis software: Wordsmith, AntConc, Tableau.
 * Fascination with Sino-Tibetan languages: Mandarin and Cantonese.
 
 Publications
