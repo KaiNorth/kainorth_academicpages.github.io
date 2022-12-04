@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Linguistics, University of Winchester, 2017
-* M.S. in Applied Linguistics, University of Nottingham Ningbo China, 2018
+* M.S. in Applied Linguistics, University of Nottingham, 2018
 * M.S. in Computational Linguistics,  University of Wolverhampton, 2019
 * Ph.D in Information Technology, University of George Mason, 2025 (expected)
 
