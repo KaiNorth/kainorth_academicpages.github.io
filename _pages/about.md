@@ -14,7 +14,7 @@ Over the past two years, I have worked at the Language Technology Lab at Rochest
 
 Research Interests
 ======
-My research interests are in computational linguistics and natural language processing (NLP) focusing on hate speech detection, language variety identification, text simplification as well as many other NLP-related tasks.
+My research interests are in computational linguistics and natural language processing (NLP) focusing on educational technology, online assessment, text simplification as well as many other NLP-related tasks.
 
 I work on the development of text to token classifiers, multilingual and transfer learning, as well as state-of-the-art machine learning models, including transformers and ensemble-based models.
 
