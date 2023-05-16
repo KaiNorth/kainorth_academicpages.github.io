@@ -10,7 +10,7 @@ redirect_from:
 
 I am a 4th year Information Technology Ph.D. student at George Mason University, Virginia, USA. I am under the supervision of [Prof. Marcos Zampieri](https://mzampieri.com/).
 
-Over the past two years, I have worked at the Language Technology Lab. Here, I have hosted many NLP workshops and lectures and have published multiple papers in top-tier conferences and journals.
+Over the past four years, I have worked at the Language Technology Lab. Here, I have hosted many NLP workshops and lectures and have published multiple papers in top-tier conferences and journals.
 
 Research Interests
 ======
