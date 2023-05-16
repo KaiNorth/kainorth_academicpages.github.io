@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd year Information Technology Ph.D. student at George Mason University, Virginia, USA. I am under the supervision of [Prof. Marcos Zampieri](https://mzampieri.com/).
+I am a 4th year Information Technology Ph.D. student at George Mason University, Virginia, USA. I am under the supervision of [Prof. Marcos Zampieri](https://mzampieri.com/).
 
 Over the past two years, I have worked at the Language Technology Lab. Here, I have hosted many NLP workshops and lectures and have published multiple papers in top-tier conferences and journals.
 
 Research Interests
 ======
-My research interests are in computational linguistics and natural language processing (NLP) focusing on educational technology, online assessment, text simplification as well as many other NLP-related tasks.
+My research interests are in computational linguistics and natural language processing (NLP) focusing on educational technology, online assessment, text simplification as well as many other NLP-related tasks, such as offensive language detection and language variety identification.
 
 I work on the development of text to token classifiers, multilingual and transfer learning, as well as state-of-the-art machine learning models, including transformers, ensemble-based models and prompt learning.
 
