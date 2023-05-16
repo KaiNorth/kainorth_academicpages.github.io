@@ -27,8 +27,8 @@ Relevant Work experience
 
 * 2019-2020: Data Analyst
   * Researched, interpreted and manipulated data using a variety of systems whilst identifying issues for further analysis
-  *  Worked effectively with large volumes of complex and varied data. This data was then presented clearly to colleagues at various levels both expert and non-expert.
-  * Coded numerous python scripts to automatically classify data allowing for faster data processing and quality checking.
+  * Worked effectively with large volumes of complex and varied data. This data was then presented clearly to colleagues at various levels both expert and non-expert.
+  * Wrote numerous python scripts to automatically classify data allowing for faster data processing and quality checking.
 
 Skills
 ======
