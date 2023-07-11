@@ -16,7 +16,7 @@ Education
 * M.A. in Computational Linguistics,  University of Wolverhampton, 2019
 * Ph.D. in Information Technology, Natural Language Processing, George Mason University, 2024 (expected)
 
-Relevant Work experience
+Relevant Work Experience
 ======
 
 * 2020-Present: Research and Teaching Assistant
